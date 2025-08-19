@@ -17,11 +17,11 @@
 
 ## 📂 Proyectos Destacados
 - [Sistema de gestión de socios (C# + Access)](https://github.com/ramirochufeni/Sistema-Gestion-Socios)  
-- [Trivia Game (Unity + JSON)](link)  
+- [Trivia Game (Unity + JSON)](https://github.com/ramirochufeni/Sale-Trivia)  
 - [Portafolio Web (HTML, CSS, JS)](link)  
 
 ---
 
 ## 📫 Contacto
-- [LinkedIn](www.linkedin.com/in/ramiro-chufeni-457045262)  
+- [LinkedIn](https://www.linkedin.com/in/ramiro-chufeni-457045262/?trk=opento_sprofile_details)  
 - 📧 ramirochufeni@gmail.com
