@@ -18,7 +18,7 @@
 ## 📂 Proyectos Destacados
 - [Sistema de gestión de socios (C# + Access)](https://github.com/ramirochufeni/Sistema-Gestion-Socios)  
 - [Trivia Game (Unity + JSON)](https://github.com/ramirochufeni/Sale-Trivia)  
-- [Portafolio Web (HTML, CSS, JS)](link)  
+- [Portafolio Web (HTML, CSS, JS)](https://github.com/ramirochufeni/Sitio-WordPress-Elementor)  
 
 ---
 
