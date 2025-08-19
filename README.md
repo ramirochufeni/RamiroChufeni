@@ -12,14 +12,14 @@
 - **Lenguajes:** C#, SQL  
 - **Frameworks/Librerías:** .NET WinForms, Unity, React 
 - **Bases de datos:** Access, SQL  
-- **Otros:** JSON, Git  
+- **Otros:** JSON, Git, HTML/CSS  
 
 ---
 
 ## 📂 Proyectos Destacados
 - [Sistema de gestión de socios (C# + Access)](https://github.com/ramirochufeni/Sistema-Gestion-Socios)  
 - [Trivia Game (Unity + JSON)](https://github.com/ramirochufeni/Sale-Trivia)  
-- [Portafolio Web (HTML, CSS, JS)](https://github.com/ramirochufeni/Sitio-WordPress-Elementor)  
+- [Portafolio Web (HTML, CSS)](https://github.com/ramirochufeni/Sitio-WordPress-Elementor)  
 
 ---
 
