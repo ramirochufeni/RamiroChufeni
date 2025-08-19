@@ -3,7 +3,7 @@
 💻 **Desarrollador Jr. | C# .NET · SQL · Web**  
 🎓 Técnico Superior en Simulaciones Virtuales y Videojuegos  
 📚 Estudiante de Analista de Sistemas (2º año)  
-🚀 Interés en Back End, Bases de Datos y Desarrollo Web  
+🚀 Interés en Front End, Back End, Bases de Datos y Desarrollo Web  
 
 ---
 
