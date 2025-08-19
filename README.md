@@ -8,10 +8,11 @@
 ---
 
 ## 🔧 Tecnologías
+
 - **Lenguajes:** C#, SQL  
-- **Frameworks/Librerías:** .NET WinForms, Unity, React  
+- **Frameworks/Librerías:** .NET WinForms, Unity, React 
 - **Bases de datos:** Access, SQL  
-- **Otros:** JSON, Git, HTML/CSS  
+- **Otros:** JSON, Git  
 
 ---
 
