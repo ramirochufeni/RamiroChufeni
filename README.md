@@ -24,5 +24,5 @@
 ---
 
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/ramiro-chufeni-457045262/?trk=opento_sprofile_details)  
+- [LinkedIn](https://www.linkedin.com/in/ramiro-chufeni/?trk=opento_sprofile_details)  
 - 📧 ramirochufeni@gmail.com
