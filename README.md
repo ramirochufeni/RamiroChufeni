@@ -17,9 +17,10 @@
 ---
 
 ## 📂 Proyectos Destacados
+- [BOT IA + TOOLS (API de OpenAI)](https://github.com/ramirochufeni/proyecto-ia)
 - [Sistema de gestión de socios (C# + Access)](https://github.com/ramirochufeni/Sistema-Gestion-Socios)  
 - [Trivia Game (Unity + JSON)](https://github.com/ramirochufeni/Sale-Trivia)  
-- [Portafolio Web (HTML, CSS)](https://github.com/ramirochufeni/Sitio-WordPress-Elementor)  
+- [Portafolio Web (WordPress + Elementor)](https://github.com/ramirochufeni/Sitio-WordPress-Elementor)  
 
 ---
 
